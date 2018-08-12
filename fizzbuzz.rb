@@ -8,7 +8,8 @@ if int % 3 == 0
   return 'fizz'
 end
 def fizzbuzz(5)
-  if int % 5 ==
+  if int % 5 == 10
+    "buzz"
 end
 
 
