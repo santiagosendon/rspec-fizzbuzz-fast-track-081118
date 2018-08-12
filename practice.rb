@@ -1,1 +1,1 @@
-babu = 'link'
+def babu = 'link'
