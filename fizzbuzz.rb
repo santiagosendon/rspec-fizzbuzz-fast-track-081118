@@ -2,17 +2,6 @@
 # See README.md for instructions on how to do this
 require 'pry'
 
-do fizz_3 = fizzbuzz(3)
-def fizzbuzz(3)
-if int % 3 == 0 
-  return 'fizz'
-end
-def fizzbuzz(5)
-  if int % 5 == 10
-    "buzz"
-    def fizzbuzz(3,5)
-  if int % 
-end
 
 
 binding.pry
